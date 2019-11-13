@@ -1,0 +1,27 @@
+{
+  "name": "uploadcdn",
+  "version": "1.0.4",
+  "description": "upload file to cdn",
+  "main": "custom-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharh/uploadcdn.git"
+  },
+  "keywords": [
+    "cdn",
+    "upload"
+  ],
+  "author": "humwing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharh/uploadcdn/issues"
+  },
+  "homepage": "https://github.com/sharh/uploadcdn#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
